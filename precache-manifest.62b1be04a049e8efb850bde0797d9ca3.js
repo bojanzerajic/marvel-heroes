@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bce31332eaba3257924ae29117fc23f1",
+    "revision": "69f63d675126e4870dca9056b0df6b95",
     "url": "/marvel-heroes/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marvel-heroes/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1a038caeaa4ff9a4234f",
-    "url": "/marvel-heroes/static/css/main.37a37055.chunk.css"
+    "revision": "145a4d76d6936db2e063",
+    "url": "/marvel-heroes/static/css/main.129a2572.chunk.css"
   },
   {
     "revision": "913462bd662dd6672084",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marvel-heroes/static/js/2.d2735530.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a038caeaa4ff9a4234f",
-    "url": "/marvel-heroes/static/js/main.d7598903.chunk.js"
+    "revision": "145a4d76d6936db2e063",
+    "url": "/marvel-heroes/static/js/main.bd87b605.chunk.js"
   },
   {
     "revision": "7826c1f5f1eaf95ebe2e",
